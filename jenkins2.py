@@ -1,3 +1,2 @@
 print("hello jenkins project")
-a = 2
-print(a)
+print("hello again jenkins")
